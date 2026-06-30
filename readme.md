@@ -177,11 +177,6 @@ Software Engineering Student • Python Developer • Backend Developer • Mach
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Developer;Django+%26+ML+Developer;Backend+Engineer;Machine+Learning+Enthusiast;Always+Learning+New+Things+🚀" />
-</p>
-
----
 
 <p align="center">
 ⭐ <b>Thanks for visiting my profile!</b> ⭐
