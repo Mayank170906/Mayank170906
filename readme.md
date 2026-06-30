@@ -133,13 +133,6 @@ Software Engineering Student • Python Developer • Backend Developer • Mach
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank170906&theme=tokyo-night"/>
-</p>
-
----
 
 
 # 🎯 2026 Goals
