@@ -1,7 +1,7 @@
-# Hi there, I'm Mayank Choudhary 👋
+# Hi, I'm Mayank Choudhary 👋
 
 <p align="center">
-  <img src="banner.png" alt="Mayank Choudhary Banner" width="100%">
+  <img src="banner.png" alt="Banner" width="100%">
 </p>
 
 <h3 align="center">
@@ -20,46 +20,19 @@ Software Engineering Student • Python Developer • Backend Developer • Mach
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mayank170906&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
 ---
 
 ## 🚀 About Me
 
-🎓 Integrated M.Tech in Software Engineering at **VIT-AP University**
-
-📈 **CGPA:** 8.58 / 10
-
-💻 Python developer passionate about backend engineering, automation, and scalable web applications.
-
-🌱 Currently learning **Machine Learning**, **Data Analytics**, and **Cloud Technologies**.
-
-⚡ I enjoy solving real-world problems with clean, efficient, and maintainable code.
+- 🎓 Integrated M.Tech in Software Engineering at **VIT-AP University**
+- 📈 CGPA: **8.58/10**
+- 💻 Passionate about Backend Development, Python, and Automation
+- 🌱 Currently learning **Machine Learning, Cloud Computing, Data Analytics, and System Design**
+- ⚡ I enjoy building developer tools, automation software, and scalable web applications.
 
 ---
 
-## 💼 Experience
-
-### 💻 Freelance Full Stack Developer
-**Aug 2023 – Present**
-
-- Built business web applications using Django.
-- Developed Python automation tools.
-- Automated deployment and server management.
-- Designed scalable backend solutions and REST APIs.
-
-### 🏢 Software Development Intern — NSN Murthy Enterprises
-**Jun 2025 – Jul 2025**
-
-- Developed REST APIs using Django REST Framework.
-- Automated workflows using Selenium and Pandas.
-- Improved operational efficiency through automation.
-
----
-
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 
@@ -67,63 +40,98 @@ Software Engineering Student • Python Developer • Backend Developer • Mach
 <img src="https://skillicons.dev/icons?i=python,javascript,html,css,sql" />
 </p>
 
-### Backend
+### Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=django" />
+<img src="https://skillicons.dev/icons?i=django,flask,tailwind" />
 </p>
 
-- Django
-- Django REST Framework (DRF)
-- REST APIs
-
-### Frontend
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
 </p>
 
-### Libraries & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-**Also Experienced With**
-
-- Pandas
-- NumPy
-- Selenium
-- Flask
-- Git
-- SQL
-- Python Automation
 
 ---
 
-## 📚 Currently Learning
+# ⭐ Featured Projects
 
-- Machine Learning
-- Data Analysis
-- Artificial Intelligence
-- System Design
-- Cloud Deployment
-- Advanced Django
+## 📦 insightpkg
 
----
+A lightweight CLI tool that fetches detailed metadata for any Python package hosted on PyPI.
 
-## 🎯 Interests
+**Features**
 
-- Backend Development
-- REST API Development
-- Automation
-- Machine Learning
-- Data Analytics
-- Open Source
-- Software Engineering
+- Package metadata
+- Version & License
+- Author information
+- Project URLs
+- Download links
+- Raw JSON output
+
+**Tech:** Python • Requests • CLI
+
+🔗 https://github.com/Mayank170906/insightpkg
 
 ---
 
+## 🌐 Remote Web Typing
+
+Transfer text from any device on your local network directly to your computer using a Flask web application.
+
+**Features**
+
+- Live clipboard viewer
+- Remote typing
+- Adjustable typing speed
+- Cancel running jobs
+
+**Tech:** Flask • JavaScript • Python
+
+🔗 https://github.com/Mayank170906/remote-web-typing
+
+---
+
+## 🔍 Sitemap Tester
+
+A fast terminal utility for auditing XML sitemaps.
+
+**Features**
+
+- XML sitemap crawling
+- HTTP status checking
+- Redirect detection
+- Canonical validation
+
+**Tech:** Python • BeautifulSoup • Requests
+
+🔗 https://github.com/Mayank170906/sitemap-tester
+
+---
+
+## 🌍 SoftF
+
+Personal portfolio website showcasing projects and technical work.
+
+🌐 https://softf.tech
+
+🔗 https://github.com/Mayank170906/softf-website
+
+---
+
+# 💼 Experience
+
+### Software Development Intern
+**NSN Murthy Enterprises**
+*Jun 2025 – Jul 2025*
+
+- Built REST APIs using Django REST Framework
+- Automated workflows using Selenium and Pandas
+- Developed backend features and automation tools
+
+
+---
 
 # 🔥 GitHub Streak
 
@@ -134,20 +142,29 @@ Software Engineering Student • Python Developer • Backend Developer • Mach
 ---
 
 
+## 🌱 Currently Learning
 
-# 🎯 2026 Goals
+- Machine Learning
+- Artificial Intelligence
+- Cloud Computing
+- Data Analytics
+- System Design
+
+---
+
+## 🎯 2026 Goals
 
 - 🚀 Build production-ready Django applications
-- 🤖 Develop AI & Machine Learning projects
-- 📊 Master Data Analytics
+- 📦 Publish more Python packages on PyPI
+- 🤖 Build AI & Machine Learning projects
 - 🌍 Contribute to Open Source
 - 💼 Secure a Software Engineering Internship
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-<p align="left">
+<p>
 <a href="mailto:mayankchoudharysept17@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -162,8 +179,6 @@ Software Engineering Student • Python Developer • Backend Developer • Mach
 </p>
 
 ---
-
-
 <p align="center">
-⭐ <b>Thanks for visiting my profile!</b> ⭐
+<i>"Building software that solves real-world problems."</i>
 </p>
