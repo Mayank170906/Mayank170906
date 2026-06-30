@@ -141,13 +141,6 @@ Software Engineering Student • Python Developer • Backend Developer • Mach
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mayank170906&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
 
 # 🎯 2026 Goals
 
